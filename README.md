@@ -99,5 +99,31 @@ pip install numpy scipy matplotlib
 
 **رابط المستودع**: [https://github.com/sahariml/VulgarisationChaos](https://github.com/sahariml/VulgarisationChaos)
 
-**شكراً لاهتمامك!**
+---
+
+## Authors
+
+**Mohamed Lamine Sahari**  
+Department of Mathematics  
+Badji Mokhtar-Annaba University, Algeria  
+Email: mohamed-lamine.sahari@univ-annaba.dz
+
+**Contributors**: The code suite was unified, extended, and documented for public release.
+
+---
+
+## License
+
+This project is provided for academic and research purposes. Users are encouraged to cite the original authors in any publications arising from the use of these codes.
+
+**Suggested citation**:
+> M. L. Sahari and I. Boukemara, "3D Piecewise-Sinusoidal chaotic PRNG with application to image encryption," *[Journal/Conference]*, 2026. (In preparation)
+
+---
+
+## Acknowledgments
+
+This work is supported by the MDM Laboratory, Badji Mokhtar-Annaba University.  
+The authors thank the developers of the MPFR and GMP libraries for providing the high-precision arithmetic tools used in the periodicity analysis.
+
 ```
