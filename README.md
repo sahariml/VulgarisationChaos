@@ -116,9 +116,6 @@ Email: mohamed-lamine.sahari@univ-annaba.dz
 
 This project is provided for academic and research purposes. Users are encouraged to cite the original authors in any publications arising from the use of these codes.
 
-**Suggested citation**:
-> M. L. Sahari and I. Boukemara, "3D Piecewise-Sinusoidal chaotic PRNG with application to image encryption," *[Journal/Conference]*, 2026. (In preparation)
-
 ---
 
 ## Acknowledgments
