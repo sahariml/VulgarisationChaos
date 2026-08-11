@@ -116,11 +116,3 @@ Email: mohamed-lamine.sahari@univ-annaba.dz
 
 This project is provided for academic and research purposes. Users are encouraged to cite the original authors in any publications arising from the use of these codes.
 
----
-
-## Acknowledgments
-
-This work is supported by the MDM Laboratory, Badji Mokhtar-Annaba University.  
-The authors thank the developers of the MPFR and GMP libraries for providing the high-precision arithmetic tools used in the periodicity analysis.
-
-```
