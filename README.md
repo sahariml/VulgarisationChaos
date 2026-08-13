@@ -3,9 +3,7 @@
 ```markdown
 # توليد أشكال مقال "عندما يصبح الانتظام غير متوقَّع"
 
-هذا المستودع يحتوي على مصادر جميع البرامج بلغة بايثون (Python) والمستخدمة في توليد الأشكال البيانية في مقال التبسيط العلمي:
-
-**"عندما يصبح الانتظام غير متوقَّع – رحلة في قلب الأنظمة الديناميكية والشَّوَاش"**  
+هذا المستودع يحتوي على مصادر جميع البرامج بلغة بايثون (Python) والمستخدمة في توليد الأشكال البيانية في مقال التبسيط العلمي: "عندما يصبح الانتظام غير متوقَّع – رحلة في قلب الأنظمة الديناميكية والفوضى"  
 (الكاتب: محمد لمين صحاري)
 
 ---
@@ -44,27 +42,27 @@ pip install numpy scipy matplotlib
 
 ## كيفية الاستخدام
 
-1. **انسخ المستودع** إلى جهازك:
+1. انسخ المستودع إلى جهازك:
    ```bash
    git clone https://github.com/sahariml/VulgarisationChaos.git
    cd VulgarisationChaos
    ```
 
-2. **شغّل الملف المطلوب**، مثلاً:
+2. شغّل الملف المطلوب، مثلاً:
    ```bash
    python generate_figure_1_2_4_9.py
    ```
    سيتم إنشاء ملف PNG في نفس المجلد (مثل `figure_sensibilite.png`).
 
-3. **جميع الملفات** تعمل بنفس الطريقة. تأكد من أن لديك صلاحية الكتابة في المجلد الحالي.
+3. جميع الملفات تعمل بنفس الطريقة. تأكد من أن لديك صلاحية الكتابة في المجلد الحالي.
 
 ---
 
 ## ملاحظات على بعض الملفات
 
-- **`generate_figure_5.py`** : يولد شكلاً واحداً يحتوي على ثلاثة أجزاء (point fixe, cycle limite, attracteur de Lorenz).  
-- **`generate_figure_6.py; generate_figure_7.py`** : يستغرق بضع ثوانٍ (حسب قوة الحاسوب) بسبب كثافة الحسابات.  
-- **`generate_figure_1_2_4_9.py`** : يستخدم مكتبة `scipy.integrate.odeint` لحل المعادلات التفاضلية.  
+- `generate_figure_5.py` : يولد شكلاً واحداً يحتوي على ثلاثة أجزاء (point fixe, cycle limite, attracteur de Lorenz).  
+- `generate_figure_6.py; generate_figure_7.py` : يستغرق بضع ثوانٍ (حسب قوة الحاسوب) بسبب كثافة الحسابات.  
+- `generate_figure_1_2_4_9.py` : يستخدم مكتبة `scipy.integrate.odeint` لحل المعادلات التفاضلية.  
 
 ---
 
@@ -76,7 +74,7 @@ pip install numpy scipy matplotlib
 
 ## الترخيص (License)
 
-هذه الشيفرات مرخصة تحت رخصة **MIT** – يمكنك استخدامها وتعديلها بحرية مع الإشارة إلى المصدر.
+هذه الشيفرات مرخصة تحت رخصة MIT – يمكنك استخدامها وتعديلها بحرية مع الإشارة إلى المصدر.
 
 ---
 
@@ -84,31 +82,31 @@ pip install numpy scipy matplotlib
 
 الأشكال المستخدمة في المقال تستند إلى النماذج الكلاسيكية التالية :
 
-- Lorenz, E. N. (1963). *Deterministic nonperiodic flow*.  
-- May, R. M. (1976). *Simple mathematical models with very complicated dynamics*.  
-- Li, T.-Y. & Yorke, J. A. (1975). *Period three implies chaos*.  
-- Sharkovsky, O. M. (1964). *Coexistence of cycles of a continuous map of a line to itself*.
+- Lorenz, E. N. (1963). Deterministic nonperiodic flow.  
+- May, R. M. (1976). Simple mathematical models with very complicated dynamics.  
+- Li, T.-Y. & Yorke, J. A. (1975). Period three implies chaos.  
+- Sharkovsky, O. M. (1964). Coexistence of cycles of a continuous map of a line to itself.
 
 ---
 
 ## الاتصال
 
-للاستفسارات أو الاقتراحات، يمكنك فتح **Issue** في هذا المستودع أو الاتصال بالكاتب عبر بريده الالكتروني.
+للاستفسارات أو الاقتراحات، يمكنك فتح Issue في هذا المستودع أو الاتصال بالكاتب عبر بريده الالكتروني.
 
 ---
 
-**رابط المستودع**: [https://github.com/sahariml/VulgarisationChaos](https://github.com/sahariml/VulgarisationChaos)
+رابط المستودع: [https://github.com/sahariml/VulgarisationChaos](https://github.com/sahariml/VulgarisationChaos)
 
 ---
 
 ## Authors
 
-**Mohamed Lamine Sahari**  
+Mohamed Lamine Sahari  
 Department of Mathematics  
 Badji Mokhtar-Annaba University, Algeria  
 Email: mohamed-lamine.sahari@univ-annaba.dz
 
-**Contributors**: The code suite was unified, extended, and documented for public release.
+Contributors: The code suite was unified, extended, and documented for public release.
 
 
 ---
