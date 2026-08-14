@@ -24,6 +24,7 @@
 | `generate_figure_6.py` | منحنى كوخ (Flocon de Koch) من الرتبة 0 إلى 4 |
 | `generate_figure_8.py` | مساران لنواس مزدوج من شروط ابتدائية متقاربة |
 | `generate_figure_10.py` | تطور الفارق بين مسارين على مقياس لوغاريتمي |
+| `henon_attractor.py` | Henon Attractor جاذب هينون |
 
 ---
 
